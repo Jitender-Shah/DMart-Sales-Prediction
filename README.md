@@ -45,5 +45,3 @@ The sales prediction model achieved an R-squared score of [score], indicating [i
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request with your suggestions or improvements.
-
----
