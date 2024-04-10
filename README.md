@@ -10,7 +10,7 @@ This repository contains the code for predicting sales for DMart, a retail store
 - Deployment or usage instructions
 
 ## Dataset
-The dataset used for sales prediction can be found [here](link_to_dataset). It includes historical sales data and relevant features.
+The dataset used for sales prediction can be found [here](https://www.kaggle.com/datasets/sushantchougule/kolkata-shops-sales). It includes historical sales data and relevant features.
 
 ## Technologies Used
 - Python
