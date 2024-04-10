@@ -20,7 +20,7 @@ The dataset used for sales prediction can be found [here](https://www.kaggle.com
 ## Installation
 1. Clone the repository:
    ```
-   git clone [[repo_url](https://github.com/Jitender-Shah/DMart-Sales-Prediction)]
+   git clone https://github.com/Jitender-Shah/DMart-Sales-Prediction
    ```
 2. Install dependencies:
    ```
